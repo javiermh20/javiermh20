@@ -2,9 +2,10 @@ HOLA TODOS MI NOMBRE ES JAVIER MEJIA
 SOY INGENIERO EN SOFTWARE Y SISTEMAS COMPUTACIONALES
 UN GUSTO SI QUIERES MEJORAR O CAMBIAR EL CODIGO CUALQUIER RETROALIMENTACION ME SERVIRA MUCHO 
 
-AGREGAME EN LINKDN Y EN GITHUB
-javiermh20 --> USUARIO DE GITHUB
-Javier Alejandro Mejia H. --> USUARIO DE LINKDN
-JavierMejia110 --> TWITTER
+Linkdin
+Javier Alejandro Mejia H.
+Twitter:
+JavierMejia110
 
-javiermejiah20@gmail.com --> correo de contacto
+Paypal y Contacto
+javiermejiah20@gmail.com
