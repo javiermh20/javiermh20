@@ -1,6 +1,6 @@
-# 👋 Hello Everyone, I'm Javier Mejia!
+# 👋 Hello Everyone, I'm Javier Mejia 🎓!
 
-### 🎓 Mobile And Web Developer 📱🌐
+### Mobile And Web Developer 📱🌐
 Welcome to my GitHub profile! I'm Javier, a passionate mobile developer with a knack for creating innovative and efficient applications. I love to learn, experiment, and share my knowledge with the community.
 
 ## 💻 What I Do
