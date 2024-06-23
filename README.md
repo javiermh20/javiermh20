@@ -1,13 +1,12 @@
 # 👋 Hello Everyone, I'm Javier Mejia!
 
-### 🎓 Software and Computer Systems Engineer
-
+### 🎓 Mobile And Web Developer 📱🌐
 Welcome to my GitHub profile! I'm Javier, a passionate mobile developer with a knack for creating innovative and efficient applications. I love to learn, experiment, and share my knowledge with the community.
 
 ## 💻 What I Do
-- **Mobile Development:** Crafting intuitive and robust mobile applications.
+- **Mobile Development:** Crafting intuitive and robust mobile applications. (Flutter, Dart, Swift, Kotiln)
+- **Web Systemas and Landings:** Developing web systemas that are both performant and maintainable. (ReactJS, TypeScript, JavaScript)
 - **Software Engineering:** Designing and implementing scalable software solutions.
-- **System Architecture:** Developing systems that are both performant and maintainable.
 
 ## 🚀 Projects
 Here you'll find a variety of projects that I've worked on, ranging from small utilities to large-scale applications. Each project represents a step in my journey as a developer and showcases my skills and interests.
