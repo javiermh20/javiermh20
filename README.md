@@ -1,6 +1,6 @@
 # 👋 Hello Everyone, I'm Javier Mejia 🎓!
 
-# [Visit my page.](https://portfolio-javiermh20.vercel.app/)
+# [Visit my page](https://portfolio-javiermh20.vercel.app/)
 
 ### Mobile And Web Developer 📱🌐
 Welcome to my GitHub profile! I'm Javier, a passionate mobile developer with a knack for creating innovative and efficient applications. I love to learn, experiment, and share my knowledge with the community.
